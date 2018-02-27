@@ -2,7 +2,7 @@
 Language: Python v3.6.4
 
 Encrypt and decrypt a text file using an exponentiation cipher.
-A public key and private key are provided, new keys can be generated when running the program.
+A public key and private key are provided. New keys can be generated when running the program.
 
 Files
 pubkey.txt      -   key used for encryption
